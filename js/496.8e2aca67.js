@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkanli_practice"]=self["webpackChunkanli_practice"]||[]).push([[496],{4496:function(t,n,i){i.r(n),i.d(n,{default:function(){return s}});var r=function(){var t=this,n=t._self._c;return n("div",{staticClass:"courierStation"},[t._v(" 这是CourierStation ")])},e=[],u={name:"CourierStation"},a=u,c=i(1656),l=(0,c.A)(a,r,e,!1,null,null,null),s=l.exports}}]);
+//# sourceMappingURL=496.8e2aca67.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkanli_practice"]=self["webpackChunkanli_practice"]||[]).push([[534],{4534:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var l=function(){var e=this,n=e._self._c;return n("div",[n("router-view")],1)},r=[],t={name:"Help"},c=t,i=u(1656),a=(0,i.A)(c,l,r,!1,null,null,null),s=a.exports}}]);
+//# sourceMappingURL=534.1474dfb7.js.map
